@@ -1,0 +1,1 @@
+import{G as e}from"./glide.esm.CEn_k2UQ.js";new e("#awards-slider",{type:"carousel",focusAt:"center",gap:120,perView:4,breakpoints:{1300:{perView:3},1060:{perView:2},940:{perView:1}},animationDuration:600}).mount();
