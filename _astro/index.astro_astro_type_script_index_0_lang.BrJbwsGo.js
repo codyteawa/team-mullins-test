@@ -1,0 +1,1 @@
+import{G as e,a as i}from"./glide-options-defaults.R123exUo.js";new e("#awards-slider",{...i,gap:40,perView:4,breakpoints:{1300:{perView:3},1060:{perView:2},940:{perView:1}}}).mount();new e("#testimonials-slider",i).mount();new e("#reasons-slider",i).mount();
